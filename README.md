@@ -9,6 +9,12 @@ A new Flutter project.
 ![Screenshot_2022-11-08-10-31-38-77_c371fb64fa77e1e09b0e1cbe4b9a175e](https://user-images.githubusercontent.com/88641285/200854727-a14b44cb-77cd-4733-a900-f309b251a307.jpg)
 ![Screenshot_2022-11-08-10-26-35-77_c371fb64fa77e1e09b0e1cbe4b9a175e](https://user-images.githubusercontent.com/88641285/200854749-6eed7f60-edad-493f-a096-33c78bc771c0.jpg)
 
+##SmallVideoClip
+
+
+https://user-images.githubusercontent.com/88641285/200856851-c45ecc5c-5d92-4087-b05d-856647de16ed.mp4
+
+
 
 ## Getting Started
 
